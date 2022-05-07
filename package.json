@@ -1,5 +1,5 @@
 {
-  "name": "component-lib-test",
+  "name": "component-lib-bruce-test",
   "version": "0.0.1",
   "scripts": {
     "start": "dumi dev",
