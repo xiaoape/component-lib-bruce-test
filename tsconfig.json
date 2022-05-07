@@ -14,7 +14,7 @@
     "paths": {
       "@/*": ["src/*"],
       "@@/*": ["src/.umi/*"],
-      "component-lib-demo": ["src/index.ts"]
+      "component-lib-bruce-test": ["src/index.ts"]
     },
   }
 }

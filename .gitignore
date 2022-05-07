@@ -11,6 +11,10 @@
 /es
 /docs-dist
 
+#/docs-dist
+/lib
+/es
+
 # misc
 .DS_Store
 /coverage

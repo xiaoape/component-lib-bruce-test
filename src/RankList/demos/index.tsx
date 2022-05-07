@@ -1,5 +1,5 @@
 import React from 'react';
-import { RankList } from 'component-lib-demo';
+import { RankList } from 'component-lib-bruce-test'
 
 function RankListDemo() {
   const data = Array.from(new Array(10)).map((_, idx) => ({
