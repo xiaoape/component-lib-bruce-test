@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "component-lib-demo",
-  "version": "1.0.0",
+  "name": "component-lib-test",
+  "version": "0.0.1",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
@@ -13,8 +13,14 @@
     "test:coverage": "umi-test --coverage",
     "prepublishOnly": "npm run build"
   },
-  "module": "es/index.js",
-  "typings": "es/index.d.ts",
+  "main": "lib/index.js",
+  "module": "es/index.esm.js",
+  "typings": "lib/index.d.ts",
+  "files":["es","lib"],
+  "peerDependencies": {
+    "react":">=16.9.0",
+    "react-dom":">=16.9.0"
+  },
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
