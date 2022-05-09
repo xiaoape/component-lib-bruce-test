@@ -1,6 +1,6 @@
 ---
 nav:
-  title: Components
+  title: UI组件
   path: /components
 ---
 

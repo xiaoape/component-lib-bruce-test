@@ -1,7 +1,7 @@
 ---
 title: RankList 排行榜
 nav:
-  title: 组件
+  title: 业务组件
   path: /components
 group:
   path: /components

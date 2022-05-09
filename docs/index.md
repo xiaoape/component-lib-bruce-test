@@ -1,7 +1,7 @@
 ---
 hero:
-  title: component-lib-demo
-  desc: component-lib-demo site example
+  title: component-lib-bruce-test
+  desc: component-lib-bruce-test site example
   actions:
     - text: Getting Started
       link: /components
@@ -18,4 +18,4 @@ features:
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
 ---
 
-## Hello component-lib-demo!
+## Hello component-lib-bruce-test!
