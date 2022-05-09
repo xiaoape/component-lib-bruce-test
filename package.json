@@ -1,6 +1,6 @@
 {
   "name": "component-lib-bruce-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
@@ -13,7 +13,7 @@
     "prepublishOnly": "npm run build"
   },
   "main": "lib/index.js",
-  "module": "es/index.esm.js",
+  "module": "es/index.js",
   "typings": "lib/index.d.ts",
   "files": [
     "es",
