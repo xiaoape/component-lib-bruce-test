@@ -17,7 +17,8 @@
   "typings": "lib/index.d.ts",
   "files": [
     "es",
-    "lib"
+    "lib",
+    "README.md"
   ],
   "peerDependencies": {
     "react": ">=16.9.0",

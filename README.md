@@ -1,4 +1,4 @@
-# component-lib-demo
+# component-lib-bruce-test
 
 ## Getting Started
 
