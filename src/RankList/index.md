@@ -3,8 +3,6 @@ title: RankList 排行榜
 nav:
   title: 业务组件
   path: /components
-group:
-  path: /components
 ---
 
 # RankList 排行榜

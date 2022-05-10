@@ -3,8 +3,6 @@ title: CountdownButton 倒计时按钮
 nav:
   title: 业务组件
   path: /components
-group:
-  path: /components
 ---
 
 # CountdownButton 倒计时按钮
