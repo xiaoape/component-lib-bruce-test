@@ -28,3 +28,6 @@
 # ide
 /.vscode
 /.idea
+
+
+/example/node_modules

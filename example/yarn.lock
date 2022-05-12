@@ -3160,6 +3160,14 @@ commondir@^1.0.1:
   resolved "https://registry.yarnpkg.com/commondir/-/commondir-1.0.1.tgz#ddd800da0c66127393cca5950ea968a3aaf1253b"
   integrity sha1-3dgA2gxmEnOTzKWVDqloo6rxJTs=
 
+component-lib-bruce-test@0.0.3-alpha.0:
+  version "0.0.3-alpha.0"
+  resolved "https://registry.yarnpkg.com/component-lib-bruce-test/-/component-lib-bruce-test-0.0.3-alpha.0.tgz#b483827a5f9653fcda151efacf23ddca3189e1a7"
+  integrity sha512-5wVEg8VfQ1pWRBqjajpLiN/UTr0ZAUw6e/O53K4BcVPZE1YgzA65+G5JHDAay//dHJdoowLhSM6d5JndIz8kLQ==
+  dependencies:
+    component-lib-bruce-test "^0.0.1"
+    react "^18.0.0 || ^16.12.0 || ^17.0.0"
+
 component-lib-bruce-test@^0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/component-lib-bruce-test/-/component-lib-bruce-test-0.0.1.tgz#9d5971518527692cc40f5a69de107e79de501472"
@@ -7780,7 +7788,7 @@ react-router@6.3.0, react-router@^6.3.0:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
 
-react@^18.0.0:
+react@^18.0.0, "react@^18.0.0 || ^16.12.0 || ^17.0.0":
   version "18.1.0"
   resolved "https://registry.yarnpkg.com/react/-/react-18.1.0.tgz#6f8620382decb17fdc5cc223a115e2adbf104890"
   integrity sha512-4oL8ivCz5ZEPyclFQXaNksK3adutVS8l2xzZU0cqEFrE9Sb7fC0EFK5uEk74wIreL1DERyjvsU915j1pcT2uEQ==
