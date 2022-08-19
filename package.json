@@ -1,6 +1,6 @@
 {
   "name": "component-lib-bruce-test",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
@@ -37,7 +37,8 @@
   },
   "dependencies": {
     "component-lib-bruce-test": "^0.0.1",
-    "react": "^18.0.0 || ^16.12.0 || ^17.0.0"
+    "react": "^18.0.0 || ^16.12.0 || ^17.0.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.15.1",
