@@ -1,6 +1,6 @@
 {
   "name": "component-lib-bruce-test",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
