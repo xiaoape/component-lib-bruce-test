@@ -43,4 +43,4 @@ export const SnackBarShow = (props: any) => {
   root.render(<SnackBar visible={true} onCancel={close} {...props} />)
 };
 
-export default SnackBar;
+export default SnackBarShow;
