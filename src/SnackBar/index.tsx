@@ -34,6 +34,7 @@ export const SnackBarShow = (props: any) => {
   document.body.appendChild(div);
 
   const close = () => {
+    // @ts-ignore
     root.unmount(div);
     if (div && div.parentNode) {
       div.parentNode.removeChild(div);
